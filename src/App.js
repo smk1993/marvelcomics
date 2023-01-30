@@ -60,7 +60,6 @@ function App({itemsPerPage=5}) {
   }
 
 const handlesearchComicsbyName = (searchKey) => {
-  console.log(searchKey);
   if(searchKey === '') {
     setSearchActive(false);
     setSearchResuts([]);

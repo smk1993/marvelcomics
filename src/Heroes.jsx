@@ -21,7 +21,6 @@ import Character from './Character';
        setSelected([]);
        clearFilter()
     } 
-    console.log(searchResults ,'searcgg')
     return (
         <div className="heroes_container" ref={heroRef}> 
         <div className="heroes_list">
