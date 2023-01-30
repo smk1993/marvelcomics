@@ -1,0 +1,22 @@
+.card {
+    width: 200px;
+    max-height: 300px;
+    min-height: 300px;
+    padding:  1rem;
+    margin: 0.5rem;
+
+}
+.card_footer {
+    color: white;
+    padding: 0.7rem 0;
+    background:  darkgray;
+    font-size: 10px;
+    max-height: 20px;
+    min-height: 20px;
+    transform: translateY(-5px);
+}
+.image {
+
+height: 300px;
+width: 200px;
+}

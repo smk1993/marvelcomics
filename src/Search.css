@@ -1,0 +1,9 @@
+input {
+    width: 300px;
+    border-radius: 5px;
+    padding: 0.5rem;
+    border:none
+}
+textarea:focus, input:focus{
+    outline: none;
+}
